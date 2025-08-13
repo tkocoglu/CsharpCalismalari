@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OWl1ASnaTo4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tayyip Koçoğlu\\source\\repos\\UdemiCsharp\\Matematik\\Matematik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tayyip Koçoğlu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Tayyip Koçoğlu\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Tayyip Koçoğlu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

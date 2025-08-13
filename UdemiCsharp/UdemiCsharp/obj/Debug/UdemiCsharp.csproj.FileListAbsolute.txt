@@ -1,0 +1,8 @@
+C:\Users\Tayyip Koçoğlu\source\repos\UdemiCsharp\UdemiCsharp\bin\Debug\UdemiCsharp.exe.config
+C:\Users\Tayyip Koçoğlu\source\repos\UdemiCsharp\UdemiCsharp\bin\Debug\UdemiCsharp.exe
+C:\Users\Tayyip Koçoğlu\source\repos\UdemiCsharp\UdemiCsharp\bin\Debug\UdemiCsharp.pdb
+C:\Users\Tayyip Koçoğlu\source\repos\UdemiCsharp\UdemiCsharp\obj\Debug\UdemiCsharp.csproj.AssemblyReference.cache
+C:\Users\Tayyip Koçoğlu\source\repos\UdemiCsharp\UdemiCsharp\obj\Debug\UdemiCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Tayyip Koçoğlu\source\repos\UdemiCsharp\UdemiCsharp\obj\Debug\UdemiCsharp.exe
+C:\Users\Tayyip Koçoğlu\source\repos\UdemiCsharp\UdemiCsharp\obj\Debug\UdemiCsharp.pdb
+C:\Users\Tayyip Koçoğlu\source\repos\UdemiCsharp\UdemiCsharp\obj\Debug\UdemiCsharp.exe.config
